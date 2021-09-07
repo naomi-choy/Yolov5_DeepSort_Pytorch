@@ -52,7 +52,7 @@ def mousePoint(event,x,y,flags,params):
 
 def compute_color_for_id(label):
     """
-    Simple function that adds fixed color depending on the id
+    Simple function that adds fixed color depending on the class
     """
     palette = (2 ** 11 - 1, 2 ** 15 - 1, 2 ** 20 - 1)
 
