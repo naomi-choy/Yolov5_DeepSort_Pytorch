@@ -1,0 +1,2 @@
+python track.py --source second-cut_Trim.mp4 --show-vid --classes 2 --device 0
+python track.py --source 0 --show-vid --classes 0 --device 0
